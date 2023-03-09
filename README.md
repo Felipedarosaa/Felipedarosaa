@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Felipe Da Rosa
 ===============================
 
-Olá, aqui no GitHub você verá toda a minha trajetória ao longo desses anos na programação, espero que goste, e deixarei meu contato para caso queiram me chamar!
+Hello, here you will see all the projects I dedicate myself to on a daily basis in order to be a better developer for each project!
 
 * 🌍  I'm based in Torres - RS
 * 🖥️  See my portfolio [Curriculum](https://felipedarosaa.github.io/Profile/assets/pdf/Curr%C3%ADculo%20Felipe%20Da%20Rosa.pdf)
