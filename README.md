@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hello, here you will see all the projects I dedicate myself to on a daily basis in order to be a better developer for each project!
 
-* 🌍  I'm based in Torres - RS
+* 🌍  I'm based in Torres/RS - Brazil
 * 🖥️  See my portfolio [Curriculum](https://felipedarosaa.github.io/Profile/assets/pdf/Curr%C3%ADculo%20Felipe%20Da%20Rosa.pdf)
 * ✉️  You can contact me at [felipedarosav@gmail.com](mailto:felipedarosav@gmail.com)
 * 🧠  I'm learning Android Native (Java and Kotlin) and mobile development with React Native
