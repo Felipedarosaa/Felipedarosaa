@@ -7,6 +7,10 @@ Olá, aqui no GitHub você verá toda a minha trajetória ao longo desses anos n
 * 🖥️  See my portfolio [Curricum](https://felipedarosaa.github.io/Profile/assets/pdf/Curr%C3%ADculo%20Felipe%20Da%20Rosa.pdf)
 * ✉️  You can contact me at [felipedarosav@gmail.com](mailto:felipedarosav@gmail.com)
 
+
+<a href="https://www.github.com/Felipedarosaa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Felipedarosaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
