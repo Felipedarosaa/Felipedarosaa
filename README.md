@@ -6,6 +6,7 @@ Olá, aqui no GitHub você verá toda a minha trajetória ao longo desses anos n
 * 🌍  I'm based in Torres - RS
 * 🖥️  See my portfolio [Curricum](https://felipedarosaa.github.io/Profile/assets/pdf/Curr%C3%ADculo%20Felipe%20Da%20Rosa.pdf)
 * ✉️  You can contact me at [felipedarosav@gmail.com](mailto:felipedarosav@gmail.com)
+* 🧠  I'm learning Android Native (Java and Kotlin) and mobile development with React Native
 
 
 <a href="https://www.github.com/Felipedarosaa" target="_blank" rel="noreferrer"><img
