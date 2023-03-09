@@ -4,7 +4,7 @@ Hi 👋 My name is Felipe Da Rosa
 Olá, aqui no GitHub você verá toda a minha trajetória ao longo desses anos na programação, espero que goste, e deixarei meu contato para caso queiram me chamar!
 
 * 🌍  I'm based in Torres - RS
-* 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/felipe-da-rosa/)
+* 🖥️  See my portfolio at [Linkedin](https://felipedarosaa.github.io/Profile/assets/pdf/Curr%C3%ADculo%20Felipe%20Da%20Rosa.pdf)
 * ✉️  You can contact me at [felipedarosav@gmail.com](mailto:felipedarosav@gmail.com)
 
 ### Skills
