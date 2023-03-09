@@ -28,7 +28,7 @@ Olá, aqui no GitHub você verá toda a minha trajetória ao longo desses anos n
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/danielcranney"><img src="https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
+<a href="http://www.github.com/Felipedarosaa"><img src="https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
 
 
 <b>Top Repositories</b>
